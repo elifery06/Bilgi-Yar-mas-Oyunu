@@ -1,1 +1,0 @@
-# Bilgi-Yar-mas-Oyunu

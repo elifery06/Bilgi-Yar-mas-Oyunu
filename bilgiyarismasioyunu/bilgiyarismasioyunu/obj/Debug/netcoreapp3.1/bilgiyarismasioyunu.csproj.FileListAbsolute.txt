@@ -1,0 +1,13 @@
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\bin\Debug\netcoreapp3.1\bilgiyarismasioyunu.exe
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\bin\Debug\netcoreapp3.1\bilgiyarismasioyunu.deps.json
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\bin\Debug\netcoreapp3.1\bilgiyarismasioyunu.runtimeconfig.json
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\bin\Debug\netcoreapp3.1\bilgiyarismasioyunu.runtimeconfig.dev.json
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\bin\Debug\netcoreapp3.1\bilgiyarismasioyunu.dll
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\bin\Debug\netcoreapp3.1\bilgiyarismasioyunu.pdb
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\obj\Debug\netcoreapp3.1\bilgiyarismasioyunu.csprojAssemblyReference.cache
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\obj\Debug\netcoreapp3.1\bilgiyarismasioyunu.AssemblyInfoInputs.cache
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\obj\Debug\netcoreapp3.1\bilgiyarismasioyunu.AssemblyInfo.cs
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\obj\Debug\netcoreapp3.1\bilgiyarismasioyunu.csproj.CoreCompileInputs.cache
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\obj\Debug\netcoreapp3.1\bilgiyarismasioyunu.dll
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\obj\Debug\netcoreapp3.1\bilgiyarismasioyunu.pdb
+C:\Users\ELİF\Source\Repos\bilgiyarismasioyunu\bilgiyarismasioyunu\obj\Debug\netcoreapp3.1\bilgiyarismasioyunu.genruntimeconfig.cache
